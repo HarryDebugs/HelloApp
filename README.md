@@ -9,7 +9,7 @@
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)]()
 [![SRM STEP](https://img.shields.io/badge/SRM_STEP-Bootcamp-0052CC?style=for-the-badge)]()
 
-*Simple Java Hello World Application for Learning Git and GitFlow.*
+*Simple Java Hello World Application developed by Harry Jay William for Learning Git and GitFlow.*
 
 </div>
 
